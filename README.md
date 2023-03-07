@@ -1,4 +1,4 @@
-# Bank Customers Churn Prediction
+# Bank Customers' Churn Prediction
 Machine Learning Project
 
 - Generated a Customer Churn Analysis for bank customers in order to help banks implement new services or improve existing ones with a strategy that will retain customers who are most likely to churn from their business. 
